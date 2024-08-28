@@ -1,0 +1,9 @@
+<suite name="DataHandlerTestSuite">
+        <!-- This is a comment in the suite.xml file -->
+        <test name="DataHandlerTestSuite">
+                <classes>
+                        <class name="com.ericsson.nms.cmmediation.CMMediationTest.integrationtest.test.cases.DataHandlerTest" />
+                        
+                </classes>
+        </test>
+</suite>

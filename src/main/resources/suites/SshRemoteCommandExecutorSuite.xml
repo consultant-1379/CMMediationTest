@@ -1,0 +1,8 @@
+<suite name="SshRemoteCommandExecutorTestSuite">
+        <!-- This is a comment in the suite.xml file -->
+        <test name="SshRemoteCommandExecutorTest">
+                <classes>
+                        <class name="com.ericsson.nms.cmmediation.CMMediationTest.integrationtest.test.cases.SshRemoteCommandExecutorTest" />
+                </classes>
+        </test>
+</suite>
